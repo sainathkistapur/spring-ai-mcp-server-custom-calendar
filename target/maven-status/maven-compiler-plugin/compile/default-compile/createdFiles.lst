@@ -1,0 +1,8 @@
+dev/springai/mcp/server/custom/calendar/domain/CalendarEventType.class
+dev/springai/mcp/server/custom/calendar/tooling/CalendarEventsTools.class
+dev/springai/mcp/server/custom/calendar/SpringAiMcpServerCustomCalendarApplication.class
+dev/springai/mcp/server/custom/calendar/config/DataInitConfig$1.class
+dev/springai/mcp/server/custom/calendar/config/McpServerConfig.class
+dev/springai/mcp/server/custom/calendar/service/CalendarService.class
+dev/springai/mcp/server/custom/calendar/config/DataInitConfig.class
+dev/springai/mcp/server/custom/calendar/domain/CalendarEvent.class

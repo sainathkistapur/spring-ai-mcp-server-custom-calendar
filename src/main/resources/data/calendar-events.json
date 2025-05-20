@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "eventDate": "2025-06-06",
+    "eventType": "TRAVEL",
+    "details": "Flying from London to Delhi, staying in a Airbnb and returning after two days"
+  },
+  {
+    "id": 2,
+    "eventDate": "2025-07-07",
+    "eventType": "TRAVEL",
+    "details": "Flying from New York to Berlin, staying in a Airbnb and returning after 4 days"
+  },
+  {
+    "id": 3,
+    "eventDate": "2025-08-08",
+    "eventType": "TRAVEL",
+    "details": "Flying from Dubai to Singapore, staying in a Airbnb and returning after 5 days"
+  },
+  {
+    "id": 4,
+    "eventDate": "2025-08-08",
+    "eventType": "MEETING",
+    "details": "I have meeting with the technical team at 11am"
+  }
+]

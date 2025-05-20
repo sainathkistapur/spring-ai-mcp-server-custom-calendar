@@ -1,0 +1,12 @@
+server:
+  port: 8081
+spring:
+  application:
+    name: springai.mcp.server.custom.calendar
+
+  ai:
+    mcp:
+      server:
+        name: mcp-server-custom-calendar
+        version: 1.0.0
+        type: SYNC
